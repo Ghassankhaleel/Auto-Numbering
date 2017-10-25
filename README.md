@@ -1,5 +1,5 @@
 # Auto-Numbering
 Visual Studio 2013 is used for the implementation.
 The simulation programs were written in Visual Basic. 
-MapWinGis version 4.5 as control map was used.
-Download MapWindow GIS Open Source Project from http://www.mapwindow.org/.
+Where, the MapWinGis version 4.5 was used  as a control map.
+Downloading MapWindow (GIS Open Source Project) from http://www.mapwindow.org/.
